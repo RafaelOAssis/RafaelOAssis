@@ -1,5 +1,4 @@
-<div>
-   <a href="https://github.com/LopezTw">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaeloassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloassis&layout=compact&langs_count=6&theme=tokyonight"/>
-   </div>
+
+
+<i class="devicon-python-plain-wordmark colored"></i>
+          
